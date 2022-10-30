@@ -1,3 +1,8 @@
+# TypeScript Implementation
+
+First of all, I have generated test cases(characterization test) for easy refactoring as covering every edge cases. The test instances can be seen in "tests.json" file. Then, I have refactored the legacy code.
+
+
 # Gilded Rose Refactoring Kata
 
 This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). See also [Bobby Johnson's description of the kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/).
